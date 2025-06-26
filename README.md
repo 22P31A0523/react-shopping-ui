@@ -63,7 +63,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### live demo
+
+The demo link:https://react-shopping-ui-yhyy.onrender.com/
 
 ### `npm run build` fails to minify
 
